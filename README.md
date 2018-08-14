@@ -4,7 +4,7 @@
 
 In an effort to bring the fun of SketchParty TV to even more people, we're opening up the standard word list for translation. It's already available in 10 languages, and if you're willing to help, we'd love to be able to make it available in even more.
 
-To contribute, just fork this project, then make a copy of the word list text file named `SPTVDefaultWords_en_US.txt` ([Link](/mgnt/SketchParty-Word-Lists/blob/master/Standard-Word-Lists/Standard-Words-Language-Pack/SPTVDefaultWords_en_US.txt)), replacing `en_US` with the ISO code abbreviation representing your language and country.
+To contribute, just fork this project, then make a copy of the word list text file named `SPTVDefaultWords_en_US.txt` ([Link](Standard-Word-Lists/Standard-Words-Language-Pack/SPTVDefaultWords_en_US.txt)), replacing `en_US` with the ISO code abbreviation representing your language and country.
 
 **Note:** your language may already have a translation. Please consider evaluating the existing list.
 
@@ -18,4 +18,4 @@ Sincerely,
 
 ## License
 
-See the [LICENSE](/mgnt/SketchParty-Word-Lists/blob/master/License.md) file for license rights and limitations (MIT).
+See the [LICENSE](License.md) file for license rights and limitations (MIT).
