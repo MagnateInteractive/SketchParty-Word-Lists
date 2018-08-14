@@ -1,5 +1,7 @@
 # SketchParty TV Word Lists
 
+![](SPTV-Logo.jpg)
+
 [SketchParty TV](https://sketchparty.tv/) is the fun, family-friendly party game for Apple TV. It plays a bit like Pictionary, and people around the world love to play it in their homes with friends and family and in their classrooms with students.
 
 In an effort to bring the fun of SketchParty TV to even more people, we're opening up the standard word list for translation. It's already available in 10 languages, and if you're willing to help, we'd love to be able to make it available in even more.
