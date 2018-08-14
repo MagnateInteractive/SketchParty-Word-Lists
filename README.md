@@ -15,3 +15,7 @@ Thank you in advance for your help!
 Sincerely,
 
 [Matt Braun](https://twitter.com/mattbraun)
+
+## License
+
+See the [LICENSE](/mgnt/SketchParty-Word-Lists/blob/master/License.md) file for license rights and limitations (MIT).
